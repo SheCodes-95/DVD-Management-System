@@ -1,0 +1,11 @@
+1001#The Umpire Strikes Back#2#false#false#
+1002#Balls of Fury#5#true#true#
+1003#Bridget Jones's Diarrhea#4#false#true#
+1004#Dumb and Dumberer#5#true#false#
+1005#Golden I-pod#3#false#true#
+1006#Harry Pothead and the Bong of Fire#6#true#true#
+1007#I See Stupid People#1#false#true#
+1008#Juwanna Mann#3#false#true#
+1009#Parrots of the Coffee-bean#6#true#true#
+1010#Who's your Caddy?#1#false#true#
+1011#You only Burp Thrice#7#false#true#
